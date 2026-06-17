@@ -25,10 +25,13 @@ A largo plazo, busco especializarme en hacking ético y fundar mi propia empresa
 ## Tools
 Network
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </div>
+
 Endpoint / Systems
 <div> <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> </div>
+
 Security / Learning Platforms
-<div> <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> </div>
+
+<a href="https://tryhackme.com/p/ryzehack/"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> </div>
 
 ## Certifications
 <div> <img src="https://img.shields.io/badge/-Ciberseguridad%20Nivel%20Intermedio-006400?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-T%C3%A9cnico%20en%20Redes%20y%20Sistemas-1E90FF?&style=for-the-badge&logoColor=white" /> </div>
