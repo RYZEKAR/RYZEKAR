@@ -1,18 +1,20 @@
-# Carlos Hernández
+# Hello, I'm Carlos Hernández
+<a href="https://linkedin.com/in/carlos-hernández-6b3739362/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity & IT Student | Networking | Linux | Ethical Hacking
 
-I'm a 19-year-old IT student from the Dominican Republic with a technical background in Networking and Systems Administration.
+I'm a Networking and Systems graduate from the Dominican Republic with a strong interest in cybersecurity, networking, Linux, and IT infrastructure.
 
-Currently focused on cybersecurity, Linux, networking, and hands-on labs through platforms such as TryHackMe and OverTheWire.
+Currently, I'm expanding my skills through hands-on practice with TryHackMe, Cisco Networking, and cybersecurity studies, while building practical knowledge in technologies such as Docker, Linux administration, and networking.
 
-My goal is to begin my career in IT and cybersecurity, gaining practical experience in support, networking, or SOC environments while continuing to develop offensive security skills.
+I enjoy learning by building, experimenting, and solving technical challenges in home lab environments. My goal is to start my career in IT and cybersecurity, gaining real-world experience while continuing to develop advanced security and infrastructure skills.
+
 
 ## Technical Skills
 
 ### Operating Systems
-- Windows 10/11
-- Linux (Ubuntu, Kali Linux)
+- Windows
+- Linux 
 
 ### Networking
 - TCP/IP
@@ -29,8 +31,8 @@ My goal is to begin my career in IT and cybersecurity, gaining practical experie
 
 ### Programming
 - Python (Learning)
-- HTML
-- CSS
+- HTML (Learning)
+- CSS (Learning)
 
 ### Hardware
 - PC Assembly
