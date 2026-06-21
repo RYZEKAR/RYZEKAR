@@ -45,7 +45,7 @@ I enjoy learning by building, experimenting, and solving technical challenges in
 
 - Intermediate Cybersecurity Certificate (INDOTEL, BID y Cymetria Group)
 
-<a href="https://github.com/RYZEKAR/RYZEKAR/blob/8e4bd55e26c5ff2331f10058f849ab2f529ce15c/certificates/Ciberseguridad_talento_digital.png)"><img src="https://img.shields.io/badge/INDOTEL-Cybersecurity%20Intermediate-0A3D91?style=for-the-badge&logo=shield&logoColor=white" />
+<a href="https://github.com/RYZEKAR/RYZEKAR/blob/813484193d734aad7163b9da11b00940d4007577/certificates/Ciberseguridad_talento_digital.png/"><img src="https://img.shields.io/badge/INDOTEL-Cybersecurity%20Intermediate-0A3D91?style=for-the-badge&logo=shield&logoColor=white" />
 </a>
 
 
