@@ -47,8 +47,6 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 <a href="./certificates/Ciberseguridad_talento_digital.png/"><img src="https://img.shields.io/badge/INDOTEL-Cybersecurity%20Intermediate-0A3D91?style=for-the-badge&logo=shield&logoColor=white" />
 </a>
 
-
-
 ## Projects
 
 ???
