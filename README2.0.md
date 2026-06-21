@@ -65,4 +65,3 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 - Networking
 - Python Fundamentals
 - English for IT & Cybersecurity
-- 
