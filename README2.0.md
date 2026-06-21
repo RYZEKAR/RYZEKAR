@@ -3,12 +3,11 @@
 
 Cybersecurity & IT Student | Networking | Linux | Ethical Hacking
 
-I'm a Networking and Systems graduate from the Dominican Republic with a strong interest in cybersecurity, networking, Linux, and IT infrastructure.
+Soy graduado en Soporte de Redes y Sistemas informaticos de la República Dominicana y tengo un gran interés en ciberseguridad, redes, Linux e infraestructura de TI.
 
-Currently, I'm expanding my skills through hands-on practice with TryHackMe, Cisco Networking, and cybersecurity studies, while building practical knowledge in technologies such as Docker, Linux administration, and networking.
+Actualmente, estoy ampliando mis habilidades mediante la práctica con TryHackMe, redes Cisco y estudios de ciberseguridad, a la vez que adquiero conocimientos prácticos en tecnologías como Docker, administración de Linux y redes.
 
-I enjoy learning by building, experimenting, and solving technical challenges in home lab environments. My goal is to start my career in IT and cybersecurity, gaining real-world experience while continuing to develop advanced security and infrastructure skills.
-
+Disfruto aprendiendo mediante la creación, la experimentación y la resolución de desafíos técnicos en entornos de laboratorio domésticos. Mi objetivo es iniciar mi carrera en TI y ciberseguridad, obteniendo experiencia real y continuando desarrollando habilidades avanzadas en seguridad e infraestructura.
 
 ## Technical Skills
 
@@ -58,15 +57,12 @@ I enjoy learning by building, experimenting, and solving technical challenges in
 
 ## Current Learning
 
-- TryHackMe Security Paths
-- OverTheWire Bandit
-- Networking Basics (Cisco)
+- TryHackMe
+- Cisco Networking Basics
+- Cybersecurity Fundamentals
+- Docker
 - Linux Administration
-- English for IT & Cybersecurity
+- Networking
 - Python Fundamentals
-
-## About Me
-
-I'm a Networking and Systems graduate from the Dominican Republic, currently focused on cybersecurity, Linux, and networking.
-
-I'm actively developing hands-on skills through home labs, TryHackMe, and practical projects. My goal is to start my career in IT and cybersecurity while continuing to grow toward more advanced security roles.
+- English for IT & Cybersecurity
+- 
