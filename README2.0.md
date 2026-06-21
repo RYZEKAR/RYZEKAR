@@ -41,11 +41,14 @@ I enjoy learning by building, experimenting, and solving technical challenges in
 
 ## Certifications
 
-- Technical Degree in Networking and Systems
-- Intermediate Cybersecurity Certificate
-- Networking Basics (In Progress)
-- Google Cybersecurity Certificate (Planned)
-- CompTIA Security+ (Planned)
+
+
+- Intermediate Cybersecurity Certificate (INDOTEL, BID y Cymetria Group)
+<a href="LINK_AL_CERTIFICADO">
+  <img src="https://img.shields.io/badge/INDOTEL-Cybersecurity%20Intermediate-0A3D91?style=for-the-badge&logo=shield&logoColor=white" />
+</a>
+
+
 
 ## Projects
 
