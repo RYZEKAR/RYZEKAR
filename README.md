@@ -50,9 +50,7 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 
 ## Projects
 
-???
-???
-???
+In progress...
 
 ## Current Learning
 
