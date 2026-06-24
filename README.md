@@ -3,6 +3,7 @@
 <a href="https://linkedin.com/in/carlos-hernández-6b3739362/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity & IT Student | Networking | Linux | Ethical Hacking
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false" width="50%"/>
 
 Soy graduado en Soporte de Redes y Sistemas informaticos de la República Dominicana y tengo un gran interés en ciberseguridad, redes, Linux e infraestructura de TI.
