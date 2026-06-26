@@ -21,27 +21,27 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ### Operating Systems
 
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-black?logo=windows&logoColor=white"/>
   </a>
 </p>
 
 <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>
   </a>
 </p>
 
 <a href="https://www.debian.org/" target="_blank">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-black?logo=debian&logoColor=white">
   </a> 
 </p>
 
 <a href="https://ubuntu.com/" target="_blank"> 
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black?logo=ubuntu&logoColor=white"/>
   </a>
 </p>
 
 <a href="https://www.kali.org/" target="_blank"> 
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-black?logo=kalilinux&logoColor=purple"/>
   </a>
   </p>
 
