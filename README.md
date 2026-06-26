@@ -46,11 +46,16 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
   </p>
 
 ### Networking
-- TCP/IP
-- DNS
-- DHCP
-- SSH
-- Basic Network Troubleshooting
+
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-black?style=flat-flat&logo=TCP/IP)
+
+![DNS](https://img.shields.io/badge/-DNS-black?style=flat-flat&logo=DNS)
+
+![DHCP](https://img.shields.io/badge/-DHCP-black?style=flat-flat&logo=DHCP)
+
+![SSH](https://img.shields.io/badge/-SSH-black?style=flat-flat&logo=SSH)
+
+![Basic Network Troubleshooting](https://img.shields.io/badge/-Basic_Network_Troubleshooting-black?style=flat-flat&logo=BasicNetworkTroubleshooting)
 
 ### Cybersecurity
 - TryHackMe Labs
