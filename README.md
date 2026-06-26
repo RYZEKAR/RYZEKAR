@@ -75,9 +75,12 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-flat&logo=css3) (Learning)
 
 ### Hardware
-- PC Assembly
-- Hardware Troubleshooting
-- System Installation
+
+![PC Assembly](https://img.shields.io/badge/-PC_Assembly-black?style=flat-flat&logo=PC_Assembly)
+
+![Hardware Troubleshooting](https://img.shields.io/badge/-Hardware_Troubleshooting-black?style=flat-flat&logo=Hardware_Troubleshooting)
+
+![System Installation](https://img.shields.io/badge/-System_Installation-black?style=flat-flat&logo=System_Installation)
 
 ## Certifications
 
