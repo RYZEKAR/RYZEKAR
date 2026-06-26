@@ -37,8 +37,11 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 
 ### Programming
 - Python (Learning)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
 - HTML (Learning)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-flat&logo=html5&logoColor=white)
 - CSS (Learning)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-flat&logo=css3)
 
 ### Hardware
 - PC Assembly
