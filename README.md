@@ -58,10 +58,14 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ![Basic Network Troubleshooting](https://img.shields.io/badge/-Basic_Network_Troubleshooting-black?style=flat-flat&logo=BasicNetworkTroubleshooting)
 
 ### Cybersecurity
-- TryHackMe Labs
-- OverTheWire
-- Linux Security Basics
-- Basic Enumeration
+
+![TryHackMe Labs](https://img.shields.io/badge/-TryHackMe_Labs-black?style=flat-flat&logo=TryHackMe_Labs)
+
+![OverTheWire](https://img.shields.io/badge/-OverTheWire-black?style=flat-flat&logo=OverTheWire)
+
+![Linux Security Basics](https://img.shields.io/badge/-Linux_Security_Basics-black?style=flat-flat&logo=Linux_Security_Basics)
+
+![Basic Enumeration](https://img.shields.io/badge/-Basic_Enumeration-black?style=flat-flat&logo=Basic_Enumeration)
 
 ### Programming
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white) (Learning)
