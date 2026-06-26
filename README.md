@@ -1,4 +1,4 @@
-# Carlos Hernández
+# Carlos Hernández<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&color=4700F7&multiline=true&width=222&lines=.+.+.+%E6%84%9B" alt="Typing SVG" /></a>
 
 <a href="https://linkedin.com/in/carlos-hernández-6b3739362/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
