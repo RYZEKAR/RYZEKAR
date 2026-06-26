@@ -6,6 +6,10 @@ Cybersecurity & IT Student | Networking | Linux | Ethical Hacking
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false" width="50%"/>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 Soy graduado en Soporte de Redes y Sistemas informaticos de la República Dominicana y tengo un gran interés en ciberseguridad, redes, Linux e infraestructura de TI.
 
 Actualmente, estoy ampliando mis habilidades mediante la práctica con TryHackMe, redes Cisco y estudios de ciberseguridad, a la vez que adquiero conocimientos prácticos en tecnologías como Docker, administración de Linux y redes.
@@ -64,3 +68,8 @@ In progress...
 - Networking
 - Python Fundamentals
 - English for IT & Cybersecurity
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
