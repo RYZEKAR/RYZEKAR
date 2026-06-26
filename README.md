@@ -19,8 +19,31 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ## Technical Skills
 
 ### Operating Systems
-- Windows
-- Linux 
+
+<a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+  </a>
+</p>
+
+<a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  </a>
+</p>
+
+<a href="https://www.debian.org/" target="_blank">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
+  </a> 
+</p>
+
+<a href="https://ubuntu.com/" target="_blank"> 
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  </a>
+</p>
+
+<a href="https://www.kali.org/" target="_blank"> 
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
+  </a>
+  </p>
 
 ### Networking
 - TCP/IP
@@ -36,12 +59,11 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 - Basic Enumeration
 
 ### Programming
-- Python (Learning)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
-- HTML (Learning)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-flat&logo=html5&logoColor=white)
-- CSS (Learning)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-flat&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white) (Learning)
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-flat&logo=html5&logoColor=white) (Learning)
+
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-flat&logo=css3) (Learning)
 
 ### Hardware
 - PC Assembly
