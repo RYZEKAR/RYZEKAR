@@ -1,10 +1,4 @@
-# Carlos Hernández
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&color=4700F7&multiline=true&width=222&lines=.+.+.+%E6%84%9B" alt="Typing SVG" />
-  </a>
-</p>
+# Carlos Hernández <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&color=4700F7&multiline=true&width=222&lines=.+.+.+%E6%84%9B" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://linkedin.com/in/carlos-hern%C3%A1ndez-6b3739362/">
