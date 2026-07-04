@@ -48,8 +48,7 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ![DNS](https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![DHCP](https://img.shields.io/badge/DHCP-0052CC?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=terminal&logoColor=white)
-![RDP](https://img.shields.io/badge/Remote_Desktop-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Cableado Estructurado](https://img.shields.io/badge/Cableado_Estructurado-0078D4?style=for-the-badge&logo=ethernet&logoColor=white)
+![Structured Cabling](https://img.shields.io/badge/Structured_Cabling-0078D4?style=for-the-badge&logo=ethernet&logoColor=white)
 
 ### Cybersecurity
 
@@ -68,6 +67,7 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![RDP](https://img.shields.io/badge/RDP-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Hardware
