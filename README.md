@@ -68,11 +68,6 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ## GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RYZEKAR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYZEKAR&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RYZEKAR&theme=radical" alt="GitHub Streak" />
 </p>
 
