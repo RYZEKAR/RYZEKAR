@@ -32,6 +32,7 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ### Networking
 
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0052CC?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![UDP](https://img.shields.io/badge/UDP-0052CC?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![DHCP](https://img.shields.io/badge/DHCP-0052CC?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=terminal&logoColor=white)
