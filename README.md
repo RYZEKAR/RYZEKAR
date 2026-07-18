@@ -78,9 +78,9 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 
 [![INDOTEL Cybersecurity Intermediate](https://img.shields.io/badge/INDOTEL-Cybersecurity_Intermediate-0A3D91?style=for-the-badge&logo=shield&logoColor=white)](./certificates/Ciberseguridad_talento_digital.png)
 
-[![Certificado Getting Started in Cybersecurity 3.0](https://img.shields.io/badge/Certificado_Getting_Started_in_Cybersecurity_3.0-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Certificado Getting Started in Cybersecurity 3.0.pdf)
+[![Certificado Getting Started in Cybersecurity 3.0](https://img.shields.io/badge/Certificado_Getting_Started_in_Cybersecurity_3.0-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Certificado_Getting_Started_in_Cybersecurity_3.0.pdf)
 
-[![Certificado Introduction to the Threat Landscape 3.0](https://img.shields.io/badge/Certificado_Introduction_to_Threat_Landscape_3.0-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Certificado Introduction to the Threat Landscape 3.0.pdf)
+[![Certificado Introduction to the Threat Landscape 3.0](https://img.shields.io/badge/Certificado_Introduction_to_Threat_Landscape_3.0-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Certificado_Introduction_to_the_Threat_Landscape_3.0.pdf)
 
 ---
 
