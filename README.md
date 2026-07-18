@@ -91,6 +91,8 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 ### Próximamente
 Mis proyectos de laboratorio, scripts y ejercicios estarán disponibles aquí pronto.
 
+[![Bandit Writeups](https://img.shields.io/badge/Bandit_Writeups-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,<logo_personalizado>)](https://github.com/RYZEKAR/bandit-writeups)
+
 ---
 
 ## Currently Learning
