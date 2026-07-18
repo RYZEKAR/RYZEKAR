@@ -96,13 +96,13 @@ Mis proyectos de laboratorio, scripts y ejercicios estarán disponibles aquí pr
 ## Currently Learning
 
 - TryHackMe (Pre Security, Cyber Security 101, Jr Penetration Tester)
-- Cisco Networking Basics
+- Cisco Networking Studies
 - Cybersecurity Fundamentals
 - Docker & Containerization
 - Linux Administration
-- Python Fundamentals
+- Python Studies
 - English for IT & Cybersecurity
-- Labex
+- CCNA Studies
 ---
 
 <p align="center">
