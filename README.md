@@ -78,9 +78,9 @@ Disfruto aprendiendo mediante la creación, la experimentación y la resolución
 
 [![INDOTEL Cybersecurity Intermediate](https://img.shields.io/badge/INDOTEL-Cybersecurity_Intermediate-0A3D91?style=for-the-badge&logo=shield&logoColor=white)](./certificates/Ciberseguridad_talento_digital.png)
 
-[![Fortinet NSE 1](https://img.shields.io/badge/Fortinet_NSE_1-Getting_Started_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Fortinet_NSE_1_Certified_in_Cybersecurity.pdf)
+[![Fortinet NSE 1](https://img.shields.io/badge/Fortinet_NSE_1-Certified_in_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Fortinet_NSE_1_Certified_in_Cybersecurity.pdf)
 
-[![Fortinet NSE 2](https://img.shields.io/badge/Fortinet_NSE_2-Threat_Landscape-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Fortinet_NSE_2_Certified_in_Cybersecurity.pdf)
+[![Fortinet NSE 2](https://img.shields.io/badge/Fortinet_NSE_2-Certified_in_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](./certificates/Fortinet_NSE_2_Certified_in_Cybersecurity.pdf)
 
 ---
 
